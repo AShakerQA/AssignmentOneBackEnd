@@ -5,4 +5,4 @@ INSERT INTO `game`
 VALUES
 ('genshin',
 'rpg',
-'5');
+5);
