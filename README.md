@@ -36,6 +36,11 @@ To achieve this I have decided to create a game library within a shop.
 All this information will be stored on a H2 Database.
 
 ### Architecture
-The project currently has one table therefore this is no real relationship structure however the current methods are as follows:
+The project currently has one table therefore this is no relationship in terms of multiple tables, however this is the Game table.
 
 ![ERD](https://user-images.githubusercontent.com/71396007/96352422-ebbe2280-10ba-11eb-8b29-0b22342aa794.png)
+
+If an Order was to be introduced as a new table, then the relationship would be many-to-many as many different games can be in many different orders.
+
+### Risk Assessment
+![RiskAssessment](https://user-images.githubusercontent.com/71396007/96352598-499f3a00-10bc-11eb-89f9-760810838ad2.png)
