@@ -38,4 +38,4 @@ All this information will be stored on a H2 Database.
 ### Architecture
 The project currently has one table therefore this is no real relationship structure however the current methods are as follows:
 
-![ERD](https://github.com/[AShakerQA]/[AssignmentOneBackEnd]/blob/[master]/Erd.jpg?raw=true)
+![ERD](https://user-images.githubusercontent.com/71396007/96352422-ebbe2280-10ba-11eb-8b29-0b22342aa794.png)
