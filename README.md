@@ -90,5 +90,11 @@ There are a number of improvements that I would like to make:
 * Introduce a few more fields tables which interact with the game table to allow users to place orders and save them with unique order ids.
 * Aesthetic design of the entire web page would be better if more time was available to experiment with CSS. (Bootstrap would be the easy way out!)
 
+### Acknowledgements
+* [Jira](https://www.atlassian.com/software/jira)
+* [Eclipse: Java SE](https://www.eclipse.org/downloads/)
+* [Visual Studio Code: HTML 5, CSS 3 & JS](https://code.visualstudio.com/)
+
+
 ### Authors
 Abdul Shaker
