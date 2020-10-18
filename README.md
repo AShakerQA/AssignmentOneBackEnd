@@ -11,7 +11,7 @@
 * [Front End Design](#front-end-design)
 * [Known Issues](#known-issues)
 * [Future Improvements](#future-improvements)
-  
+* [Acknowledgements](#acknowledgements)
 
 ### Brief
 The objective states to create a **CRUD** application with the utilisation of supporting tools,methodologies and technologies that encapsulates all core modules covered during training.
@@ -94,7 +94,8 @@ There are a number of improvements that I would like to make:
 * [Jira](https://www.atlassian.com/software/jira)
 * [Eclipse: Java SE](https://www.eclipse.org/downloads/)
 * [Visual Studio Code: HTML 5, CSS 3 & JS](https://code.visualstudio.com/)
-
+* [Postman](https://www.postman.com/)
+* [SpringBoot](https://spring.io/projects/spring-boot)
 
 ### Authors
 Abdul Shaker
